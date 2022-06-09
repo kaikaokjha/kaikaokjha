@@ -1,7 +1,7 @@
 # Sobre mim
 - 👋 Hi, I’m @kaikaokjha
-- 👀 I’m interested in desenvolver códigos.
-- 🌱 I’m currently learning  programação.
+- 👀 I’m interested in desenvolver códigos
+- 🌱 I’m currently learning  programação
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me  kaique.passos@escola.pr.gov.br
 
